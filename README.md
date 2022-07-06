@@ -1,7 +1,13 @@
 # project
+## team members
+- name1
+- name2
+- name3
 ## Project objective
 dot dot dot
 #### Specification
-[1] item1
-[2] feature2
-[3] feature3
+- item1
+- feature2
+- feature3
+- 
+
